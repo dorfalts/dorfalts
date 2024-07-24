@@ -15,9 +15,8 @@
 </pre>
 <pre>
 ~ $ cat info.txt
-Hi, my name is Elchapo and I'm student of IT Security. I'm an developer and I like so much to develop projects focused to be IT Specialist.
+Hi, my name is Elchapo and I'm student of IT Security. I'm an developer and I like so much to 
+develop projects focused to be IT Specialist.
 
 ~ $ sudo rm -rf /*
 </pre>
-
--->
